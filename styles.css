@@ -8,12 +8,12 @@ table,tr,td{
 #table-1{
 	width:100%
 }
-#table-1>tr>td:nth-child(1){
+.l{
 	text-align:left;
 }
-#table-1>tr>td:nth-child(2){
+.c{
 	text-align:center;
 }
-#table-1>tr>td:nth-child(3){
+.r{
 	text-align:right;
 }
